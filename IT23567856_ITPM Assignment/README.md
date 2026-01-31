@@ -16,7 +16,7 @@ Playwright
 JavaScript
 VS Code
 
-<<<<<<< HEAD
+
 How to run
 Install Node.js (v16 or newer recommended).
 
@@ -30,7 +30,7 @@ npm init playwright@latest
 
 Run tests:
 npx playwright test
-=======
+
 ## How to run
 1. Install Node.js (v16 or newer recommended).
 2. In the `playwright_project` folder run:
