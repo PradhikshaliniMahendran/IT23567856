@@ -1,0 +1,22 @@
+{
+  "name": "it23567856",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradhikshaliniMahendran/IT23567856.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradhikshaliniMahendran/IT23567856/issues"
+  },
+  "homepage": "https://github.com/PradhikshaliniMahendran/IT23567856#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
