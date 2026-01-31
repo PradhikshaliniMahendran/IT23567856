@@ -28,6 +28,7 @@ npm init playwright@latest
 
 Run tests:
 npx playwright test
+
 Conclusion
 
 *This project successfully demonstrates:
